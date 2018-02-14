@@ -1,5 +1,5 @@
 print("***you should be smart to play this game,if you not please get out***")
-print("*in this game you have coins you should choose the number of coins,the number of coins which you wanted and donot forget to choose a friend to play with him ;)*")
+print("This game is called fibanocci nim..*in this game you have coins you should choose the number of coins,the number of coins which you wanted and donot forget to choose a friend to play with him ;)*")
 player1=input("enter your name:")
 player2=input("enter your name:")
 n=int(input("the number of coins is"))
